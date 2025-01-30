@@ -1,4 +1,18 @@
+@font-face {
+  font-family: 'Garet';
+  src: url('ofont.ru_Garet.woff2') format('woff2'),
+      url('ofont.ru_Garet.woff') format('woff');
+  font-style: normal;
+  font-display: swap;
+}
 
+@font-face {
+  font-family: 'TT Norms';
+  src: url('tt-norms-bold.woff2') format('woff2'),
+      url('tt-norms-bold.woff') format('woff');
+  font-style: normal;
+  font-display: swap;
+}
 
 *,
 *::after,
